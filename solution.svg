@@ -52,7 +52,9 @@
                     <tspan x="909" y="231">and easy to redirect </tspan>
                     <tspan x="909" y="254">into map</tspan>
                 </text>
-                <circle id="Oval" stroke="#FF5800" fill="#FFD0B7" cx="516" cy="364" r="6"></circle>
+                <circle id="Oval" stroke="#FF5800" fill="#FFD0B7" cx="516" cy="364" r="6">
+                    <!-- <animate atrributeName="fill" value="#800;#f00;#800;#800" dur="0.8s" repeatCount="indefinite"> -->
+                </circle>
                 <circle id="Oval" stroke="#FF5800" fill="#FFD0B7" cx="784" cy="364" r="6"></circle>
                 <circle id="Oval" stroke="#FF5800" fill="#FFD0B7" cx="805" cy="584" r="6"></circle>
                 <text id="Existing-Screen" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" fill="#252525">
